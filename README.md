@@ -72,7 +72,7 @@ Progresso AI is a fully responsive and comprehensive webapp designed to explore 
 ## 📊 System Architecture
 
 <div align="center">
-  <img src="https://res.cloudinary.com/sutharjay/image/upload/v1736577023/rqb70irylv3j6ywphb0x.png" alt="System Architecture" width="100%" />
+  <img src="public/img.jpeg" alt="System Architecture" width="100%" />
 </div>
 
 ## 🚀 Getting Started
